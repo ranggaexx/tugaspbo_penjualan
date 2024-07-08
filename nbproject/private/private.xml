@@ -3,10 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/database/java.java</file>
-            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/konsumen/konsumen.java</file>
-            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/konsumen/main.java</file>
-            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/konsumen/tabel_konsumen.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/table_penjualan/supplier.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/gui/framasupplier.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/table_penjualan/tabel_konsumen.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/table_penjualan/konsumen.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/table_penjualan/pembelian.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/gui/framapembayaran.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/table_penjualan/pembayaran.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/gui/framapembelian.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/gui/framautama.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/penjualan/penjualan_main.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/CRUD/database.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/%20Penjualan/src/gui/framakonsumen.java</file>
         </group>
     </open-files>
 </project-private>
